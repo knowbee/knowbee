@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bruce</h1>
-
-[![Hits](http://hits.dwyl.com/knowbee/knowbee.svg)](http://hits.dwyl.com/knowbee/knowbee)
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
@@ -12,8 +9,9 @@
 
 ### Useful Links:
 
-- [Blog](https://dev.to/knowbee)
+- [Dev.to](https://dev.to/knowbee)
 - [NPM](https://www.npmjs.com/~knowbee)
+- [PyPi](https://pypi.org/user/knowbee/)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knowbee&layout=compact&hide=html" alt="languages" />
 
@@ -26,3 +24,7 @@
 	<br>
 	<br>
 </div>
+
+### You can sponsor my work through [Here](https://flutterwave.com/pay/knowbee)
+
+🥂 Cheers!
