@@ -31,9 +31,5 @@
 	grid-gap: 50px;
 	justify-content: center;
 	justify-items: center;" >
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=knowbee&show_icons=true&locale=en&layout=compact" alt="knowbee" /></p>
-
-<p >&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=knowbee&show_icons=true&title_color=8f4242&locale=en" alt="knowbee" /></p>
-
 <p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=knowbee&" alt="knowbee" /></p>
 </div>
